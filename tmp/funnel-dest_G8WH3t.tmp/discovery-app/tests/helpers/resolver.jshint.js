@@ -1,0 +1,1 @@
+/Users/kaitlynhova/Documents/ember-discovery/tmp/jshinter-tmp_dest_dir-V6Ltzrn6.tmp/helpers/resolver.jshint.js

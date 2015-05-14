@@ -1,0 +1,1 @@
+/Users/kaitlynhova/Documents/ember-discovery/tmp/funnel-dest_xJ64p4.tmp/discovery-app/tests/helpers/resolver.jshint.js
